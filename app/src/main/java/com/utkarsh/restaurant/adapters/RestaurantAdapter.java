@@ -1,4 +1,4 @@
-package com.utkarsh.restaurant;
+package com.utkarsh.restaurant.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,6 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 import com.utkarsh.restaurant.Model.NearbyRestaurant;
 import com.utkarsh.restaurant.Model.Restaurant;
+import com.utkarsh.restaurant.R;
 
 import java.util.List;
 
